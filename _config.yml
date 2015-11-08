@@ -1,0 +1,23 @@
+name: Hani
+favicon: null
+layout_spectrum: 0.4687836489174515
+typography_spectrum: 0.7732069047633559
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8732876416761428
+  lightness: 0.2758460415061563
+  saturation: 0.22258838335983455
+  rhythmicContrast: 0.8622112032026052
+purpose: []
